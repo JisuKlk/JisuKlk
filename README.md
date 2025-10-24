@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**JisuKlk/JisuKlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior dev from Spain, I like to write code, it's kinda relaxing.
 
-Here are some ideas to get you started:
+### How you can reach me:
+#### Email: alvarofdez.f10@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Discord: jisu_klk
+
+![JisuKlk's Stats](https://github-readme-stats.vercel.app/api?username=JisuKlk&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![JisuKlk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JisuKlk&theme=midnight-purple&hide_border=false)
+![JisuKlk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JisuKlk&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
+If you made it all the way to here, you should know that I like ducks 🦆
