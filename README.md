@@ -14,6 +14,10 @@ I'm still learning!
 
 ![JisuKlk's Stats](https://github-readme-stats.vercel.app/api?username=JisuKlk&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![JisuKlk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JisuKlk&theme=midnight-purple&hide_border=false)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="[https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://lanyard.cnrad.dev/api/496291047060537366?theme=dark&animatedDecoration=true&bg=000000&hideTimestamp=true&idleMessage=I%20Like%20ducks!&showDisplayName=true&borderRadius=10px)" />
+ <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://lastfm-recently-played.vercel.app/api?user=JisuKLK&count=3&bg_color=000000&loved=true&show_user=header&loved_style=4)](https://www.last.fm/user/JisuKLK)" />
+</div>
 [![Discord Presence](https://lanyard.cnrad.dev/api/496291047060537366?theme=dark&animatedDecoration=true&bg=000000&hideTimestamp=true&idleMessage=I%20Like%20ducks!&showDisplayName=true&borderRadius=10px)](https://discord.com/users/496291047060537366)
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=JisuKLK&count=3&bg_color=000000&loved=true&show_user=header&loved_style=4)](https://www.last.fm/user/JisuKLK)
 
